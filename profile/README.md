@@ -1,4 +1,4 @@
-# Explicações Contrastivas em Classificadores Baseados em Árvores
+# 🌳 Explicações Contrastivas em Classificadores Baseados em Árvores 🌳
 
 ## 📌 Descrição do Projeto
 Este projeto foi desenvolvido para a disciplina de Lógica para Computação, do curso de Ciência da Computação do IFCE – Campus Maracanaú, semestre 2025.2, ministrada pelo professor Thiago Alves.
